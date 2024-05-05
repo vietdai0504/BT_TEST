@@ -1,0 +1,12 @@
+[
+    {"title": "Inception", "year": 2010, "director": "Christopher Nolan", "revenue": 828.4},
+    {"title": "The Dark Knight", "year": 2008, "director": "Christopher Nolan", "revenue": 1005},
+    {"title": "The Shawshank Redemption", "year": 1994, "director": "Frank Darabont", "revenue": 58.3},
+    {"title": "Pulp Fiction", "year": 1994, "director": "Quentin Tarantino", "revenue": 213.9},
+    {"title": "The Godfather", "year": 1972, "director": "Francis Ford Coppola", "revenue": 245},
+    {"title": "The Godfather Part II", "year": 1974, "director": "Francis Ford Coppola", "revenue": 48},
+    {"title": "The Lord of the Rings: The Return of the King", "year": 2003, "director": "Peter Jackson", "revenue": 1140},
+    {"title": "Forrest Gump", "year": 1994, "director": "Robert Zemeckis", "revenue": 678.2},
+    {"title": "The Matrix", "year": 1999, "director": "The Wachowskis", "revenue": 463.5},
+    {"title": "Interstellar", "year": 2014, "director": "Christopher Nolan", "revenue": 677.5}
+]
